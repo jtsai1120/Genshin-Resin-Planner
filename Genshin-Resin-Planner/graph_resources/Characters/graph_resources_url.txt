@@ -1,0 +1,13 @@
+1.Character Headshot
+https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_(Character Name)_Card.png
+
+
+(P.S. The first letter must be upper class)
+
+ex. https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Albedo_Card.png
+    https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png
+
+
+
+2.Character Talents
+https://paimon.moe/characters
